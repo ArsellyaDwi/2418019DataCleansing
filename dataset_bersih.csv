@@ -1,0 +1,117 @@
+ID Praktikum,NIM,Nama Mahasiswa,Mata Praktikum,Modul,Tanggal Praktikum,Nilai,Kehadiran,Durasi Praktikum (Menit),Jumlah Percobaan,Status Praktikum,Status Kelulusan
+PRA001,2418001,Nadia Putri,Algoritma dan Pemrograman,Percabangan,05-02-2026,87.0,Alpha,120,2,Belum Selesai,Lulus
+PRA002,2418002,Rizky Ramadhan,Sistem Multimedia,Pengolahan Audio,08-02-2026,61.0,Izin,100,2,Belum Selesai,Remedial
+PRA003,2418003,Salsa Maharani,Object Oriented Programming,Polymorphism,11-02-2026,95.0,Alpha,96,3,Belum Selesai,Lulus
+PRA004,2418004,Dimas Pratama,Basis Data,Join,14-02-2026,78.0,Izin,105,1,Belum Selesai,Lulus
+PRA005,2418005,Aulia Rahma,Pemrograman Web,Rest Api,17-02-2026,71.0,Alpha,90,1,Remedial,Lulus
+PRA006,2418006,Fajar Nugroho,Jaringan Komputer,Ip Address,20-02-2026,85.0,Izin,75,3,Remedial,Lulus
+PRA007,2418007,Citra Lestari,Kecerdasan Buatan,Clustering,23-02-2026,97.0,Izin,105,3,Belum Selesai,Lulus
+PRA008,2418008,Bagas Saputra,Animasi,Keyframe,26-02-2026,88.0,Alpha,95,3,Remedial,Lulus
+PRA009,2418009,Nabila Sari,Pengolahan Citra Digital,Edge Detection,01-03-2026,73.0,Hadir,120,3,Selesai,Lulus
+PRA010,2418010,Reza Maulana,Sistem Embedded dan Mikrokontroler,Lcd,04-03-2026,86.0,Izin,105,3,Belum Selesai,Lulus
+PRA011,2418011,Tiara Anindya,Game Developer,Game Object,07-03-2026,60.0,Alpha,75,3,Remedial,Remedial
+PRA012,2418012,Rafi Akbar,Mobile Programming,Navigation,10-03-2026,97.0,Izin,90,2,Remedial,Lulus
+PRA013,2418013,Intan Permata,Algoritma dan Pemrograman,Array,13-03-2026,97.0,Izin,105,2,Remedial,Lulus
+PRA014,2418014,Galih Prakoso,Sistem Multimedia,Editing Gambar,16-03-2026,79.0,Hadir,100,1,Selesai,Lulus
+PRA015,2418015,Vina Amelia,Object Oriented Programming,Polymorphism,19-03-2026,75.0,Alpha,80,2,Belum Selesai,Lulus
+PRA016,2418016,Aldi Kurniawan,Basis Data,Join,22-03-2026,98.0,Hadir,90,1,Selesai,Lulus
+PRA017,2418017,Zahra Aulia,Pemrograman Web,Html Dan Css,25-03-2026,85.5,Hadir,80,2,Selesai,Lulus
+PRA018,2418018,Kevin Wijaya,Jaringan Komputer,Packet Analysis,28-03-2026,60.0,Izin,100,3,Belum Selesai,Remedial
+PRA019,2418019,Putri Maharani,Kecerdasan Buatan,Classification,31-03-2026,66.0,Alpha,72,1,Belum Selesai,Remedial
+PRA020,2418020,Farhan Hakim,Animasi,Keyframe,03-04-2026,96.0,Alpha,60,2,Belum Selesai,Lulus
+PRA021,2418021,Rani Oktaviani,Pengolahan Citra Digital,Thresholding,06-04-2026,90.0,Izin,95,1,Belum Selesai,Lulus
+PRA022,2418022,Yoga Pratama,Sistem Embedded dan Mikrokontroler,Lcd,09-04-2026,98.0,Hadir,72,3,Selesai,Lulus
+PRA023,2418023,Dhea Anggraini,Game Developer,Collision,12-04-2026,77.5,Hadir,108,2,Selesai,Lulus
+PRA024,2418024,Ilham Fauzi,Mobile Programming,Layout,15-04-2026,74.0,Hadir,100,1,Selesai,Lulus
+PRA025,2418025,Siska Wulandari,Algoritma dan Pemrograman,Perulangan,18-04-2026,82.0,Alpha,108,1,Belum Selesai,Lulus
+PRA026,2418026,Arga Setiawan,Sistem Multimedia,Editing Gambar,21-04-2026,76.0,Izin,108,1,Remedial,Lulus
+PRA027,2418027,Nisa Ramadhani,Object Oriented Programming,Inheritance,24-04-2026,62.0,Hadir,60,1,Selesai,Remedial
+PRA028,2418028,Daffa Alamsyah,Basis Data,Erd,27-04-2026,77.0,Hadir,90,2,Selesai,Lulus
+PRA029,2418029,Bella Kartika,Pemrograman Web,Html Dan Css,30-04-2026,80.0,Alpha,60,3,Remedial,Lulus
+PRA030,2418030,Hafiz Maulana,Jaringan Komputer,Packet Analysis,03-05-2026,63.0,Izin,60,1,Remedial,Remedial
+PRA031,2418031,Maya Safitri,Kecerdasan Buatan,Knn,06-05-2026,77.5,Hadir,108,2,Selesai,Remedial
+PRA032,2418032,Raka Firmansyah,Animasi,3D Object,09-05-2026,77.0,Izin,95,2,Remedial,Lulus
+PRA033,2418033,Larasati Dewi,Pengolahan Citra Digital,Thresholding,12-05-2026,77.0,Hadir,80,3,Selesai,Lulus
+PRA034,2418034,Andika Saputra,Sistem Embedded dan Mikrokontroler,Push Button,15-05-2026,56.5,Hadir,60,2,Selesai,Remedial
+PRA035,2418035,Fina Aprilia,Game Developer,Character,18-05-2026,60.0,Hadir,96,1,Selesai,Remedial
+PRA036,2418036,Rian Hidayat,Mobile Programming,Navigation,21-05-2026,89.0,Izin,105,1,Remedial,Lulus
+PRA037,2418037,Mutira Sari,Algoritma dan Pemrograman,Fungsi,24-05-2026,77.0,Izin,78,2,Belum Selesai,Lulus
+PRA038,2418038,Bintang Prakoso,Sistem Multimedia,Pengolahan Audio,27-05-2026,78.0,Hadir,90,2,Selesai,Lulus
+PRA039,2418039,Aisyah Nurfadila,Object Oriented Programming,Polymorphism,30-05-2026,59.0,Hadir,72,3,Selesai,Remedial
+PRA040,2418040,Rendy Kurnia,Basis Data,Sql Dasar,02-06-2026,92.0,Alpha,75,3,Belum Selesai,Lulus
+PRA041,2418041,Shafa Azzahra,Pemrograman Web,Javascript,05-06-2026,82.0,Izin,120,1,Belum Selesai,Lulus
+PRA042,2418042,Doni Setiawan,Jaringan Komputer,Packet Analysis,08-06-2026,77.0,Izin,80,2,Belum Selesai,Lulus
+PRA043,2418043,Kirana Putri,Kecerdasan Buatan,Tidak Diisi,11-06-2026,72.0,Izin,78,2,Belum Selesai,Lulus
+PRA044,2418044,Vicky Ramadhan,Animasi,Keyframe,14-06-2026,91.0,Izin,60,2,Belum Selesai,Lulus
+PRA045,2418045,Anisa Fitri,Pengolahan Citra Digital,Edge Detection,17-06-2026,68.0,Alpha,60,2,Belum Selesai,Remedial
+PRA046,2418046,Rizal Fauzan,Sistem Embedded dan Mikrokontroler,Push Button,20-06-2026,77.5,Izin,120,1,Belum Selesai,Lulus
+PRA047,2418047,Niken Larasati,Game Developer,Game Object,23-06-2026,77.5,Izin,100,2,Remedial,Remedial
+PRA048,2418048,Bima Aditya,Mobile Programming,Layout,26-06-2026,69.0,Izin,95,2,Remedial,Remedial
+PRA049,2418049,Nadya Anjani,Algoritma dan Pemrograman,Percabangan,29-06-2026,81.0,Izin,120,1,Belum Selesai,Lulus
+PRA050,2418050,Yusuf Maulana,Sistem Multimedia,Editing Gambar,02-07-2026,75.0,Alpha,80,3,Belum Selesai,Lulus
+PRA051,2418051,Adit Prakoso,Object Oriented Programming,Encapsulation,05-07-2026,72.5,Izin,90,2,Belum Selesai,Remedial
+PRA052,2418052,Cindy Amelia,Basis Data,Join,08-07-2026,87.0,Hadir,102,1,Selesai,Lulus
+PRA053,2418053,Raka Wijaya,Pemrograman Web,Javascript,11-07-2026,88.0,Tidak Diisi,90,3,Selesai,Lulus
+PRA054,2418054,Mila Anggraini,Jaringan Komputer,Packet Analysis,14-07-2026,63.0,Alpha,120,1,Belum Selesai,Remedial
+PRA055,2418055,Fauzan Akbar,Kecerdasan Buatan,Decision Tree,17-07-2026,64.0,Alpha,60,3,Belum Selesai,Remedial
+PRA056,2418056,Livia Maharani,Animasi,3D Object,20-07-2026,63.0,Izin,60,2,Belum Selesai,Remedial
+PRA057,2418057,Dio Kurniawan,Pengolahan Citra Digital,Grayscale,23-07-2026,87.0,Hadir,105,1,Selesai,Lulus
+PRA058,2418058,Tasya Putri,Sistem Embedded dan Mikrokontroler,Led,26-07-2026,58.0,Hadir,100,2,Selesai,Lulus
+PRA059,2418059,Rafiq Hidayat,Game Developer,Game Object,29-07-2026,67.0,Izin,95,2,Belum Selesai,Remedial
+PRA060,2418060,Nanda Saputra,Mobile Programming,Api Integration,01-08-2026,78.0,Alpha,120,2,Remedial,Lulus
+PRA061,2418001,Nadia Putri,Algoritma dan Pemrograman,Percabangan,04-08-2026,98.0,Izin,80,2,Belum Selesai,Lulus
+PRA062,2418002,Rizky Ramadhan,Sistem Multimedia,Pengolahan Audio,07-08-2026,77.5,Hadir,105,3,Selesai,Remedial
+PRA063,2418003,Salsa Maharani,Object Oriented Programming,Polymorphism,10-08-2026,63.0,Alpha,100,2,Remedial,Remedial
+PRA064,2418004,Dimas Pratama,Basis Data,Join,13-08-2026,84.0,Hadir,96,1,Selesai,Lulus
+PRA065,2418005,Aulia Rahma,Pemrograman Web,Html Dan Css,16-08-2026,83.0,Alpha,120,1,Belum Selesai,Lulus
+PRA066,2418006,Fajar Nugroho,Jaringan Komputer,Subnetting,19-08-2026,80.0,Hadir,60,1,Selesai,Lulus
+PRA067,2418007,Citra Lestari,Kecerdasan Buatan,Knn,22-08-2026,74.0,Hadir,120,2,Selesai,Lulus
+PRA068,2418008,Bagas Saputra,Animasi,3D Object,25-08-2026,86.5,Hadir,90,3,Selesai,Lulus
+PRA069,2418009,Nabila Sari,Pengolahan Citra Digital,Edge Detection,28-08-2026,77.5,Hadir,120,3,Selesai,Remedial
+PRA070,2418010,Reza Maulana,Sistem Embedded dan Mikrokontroler,Push Button,31-08-2026,92.0,Izin,72,2,Remedial,Lulus
+PRA071,2418011,Tiara Anindya,Game Developer,Character,03-09-2026,62.0,Izin,60,2,Belum Selesai,Remedial
+PRA072,2418012,Rafi Akbar,Mobile Programming,Navigation,06-09-2026,78.0,Izin,60,1,Belum Selesai,Lulus
+PRA073,2418013,Intan Permata,Algoritma dan Pemrograman,Percabangan,09-09-2026,87.0,Alpha,60,1,Belum Selesai,Lulus
+PRA074,2418014,Glih Prakoso,Sistem Multimedia,Pengolahan Audio,04-02-2026,68.0,Izin,120,1,Remedial,Remedial
+PRA075,2418015,Vina Amelia,Object Oriented Programming,Inheritance,07-02-2026,89.0,Hadir,120,2,Selesai,Lulus
+PRA076,2418016,Aldi Kurniawan,Basis Data,Normalisasi,10-02-2026,60.0,Alpha,90,2,Remedial,Remedial
+PRA077,2418017,Zahra Aulia,Pemrograman Web,Rest Api,13-02-2026,84.0,Hadir,75,2,Selesai,Lulus
+PRA078,2418018,Kevin Wijaya,Jaringan Komputer,Subnetting,16-02-2026,86.0,Hadir,60,1,Selesai,Lulus
+PRA080,2418020,Farhan Hakim,Animasi,3D Object,22-02-2026,74.0,Hadir,100,3,Selesai,Lulus
+PRA081,2418021,Rani Oktaviani,Pengolahan Citra Digital,Thresholding,25-02-2026,93.0,Hadir,75,1,Selesai,Lulus
+PRA082,2418022,Yoga Pratama,Sistem Embedded dan Mikrokontroler,Push Button,28-02-2026,71.0,Izin,95,2,Remedial,Lulus
+PRA083,2418023,Dhea Anggraini,Game Developer,Game Object,03-03-2026,61.0,Hadir,75,3,Selesai,Remedial
+PRA084,2418024,Ilham Fauzi,Mobile Programming,Recyclerview,06-03-2026,94.0,Alpha,100,1,Remedial,Lulus
+PRA085,2418025,Siska Wulandari,Algoritma dan Pemrograman,Percabangan,09-03-2026,73.5,Hadir,80,2,Selesai,Lulus
+PRA086,2418026,Arga Setiawan,Sistem Multimedia,Tidak Diisi,12-03-2026,68.0,Izin,108,1,Belum Selesai,Remedial
+PRA087,2418027,Nisa Ramadhani,Object Oriented Programming,Inheritance,15-03-2026,57.0,Izin,80,2,Belum Selesai,Lulus
+PRA088,2418028,Daffa Alamsyah,Basis Data,Normalisasi,18-03-2026,57.0,Izin,105,3,Remedial,Remedial
+PRA089,2418029,Bella Kartika,Pemrograman Web,Form Validation,21-03-2026,69.0,Alpha,108,2,Remedial,Remedial
+PRA090,2418030,Hafiz Maulana,Jaringan Komputer,Routing,24-03-2026,70.0,Hadir,105,2,Selesai,Lulus
+PRA091,2418031,Maya Safitri,Kecerdasan Buatan,Decision Tree,27-03-2026,89.0,Hadir,90,1,Selesai,Lulus
+PRA092,2418032,Raka Firmansyah,Animasi,3D Object,30-03-2026,77.5,Hadir,60,1,Selesai,Remedial
+PRA093,2418033,Larasati Dewi,Pengolahan Citra Digital,Thresholding,02-04-2026,77.5,Izin,100,1,Belum Selesai,Remedial
+PRA094,2418034,Andika Saputra,Sistem Embedded dan Mikrokontroler,Sensor,05-04-2026,77.5,Alpha,75,3,Belum Selesai,Remedial
+PRA096,2418036,Rian Hidayat,Mobile Programming,Layout,11-04-2026,88.0,Alpha,100,1,Belum Selesai,Lulus
+PRA097,2418037,Mutiara Sari,Algoritma dan Pemrograman,Array,14-04-2026,61.0,Izin,105,3,Belum Selesai,Remedial
+PRA098,2418038,Bintang Prakoso,Sistem Multimedia,Kompresi Media,17-04-2026,66.0,Alpha,60,3,Belum Selesai,Remedial
+PRA099,2418039,Aisyah Nurfadila,Object Oriented Programming,Polymorphism,20-04-2026,65.0,Alpha,95,2,Belum Selesai,Remedial
+PRA100,2418040,Rendy Kurnia,Basis Data,Join,23-04-2026,97.0,Hadir,120,1,Selesai,Lulus
+PRA101,2418041,Shafa Azzahra,Pemrograman Web,Rest Api,26-04-2026,91.0,Izin,100,1,Belum Selesai,Lulus
+PRA102,2418042,Doni Setiawan,Jaringan Komputer,Ip Address,29-04-2026,84.5,Izin,60,1,Belum Selesai,Lulus
+PRA103,2418043,Kirana Putri,Kecerdasan Buatan,Classification,02-05-2026,55.0,Izin,75,2,Belum Selesai,Remedial
+PRA104,2418044,Vicky Ramadhan,Animasi,Animation Timeline,05-05-2026,88.0,Alpha,80,2,Belum Selesai,Lulus
+PRA105,2418045,Anisa Fitri,Pengolahan Citra Digital,Grayscale,08-05-2026,92.0,Hadir,120,3,Selesai,Lulus
+PRA106,2418046,Rizal Fauzan,Sistem Embedded dan Mikrokontroler,Lcd,11-05-2026,58.0,Tidak Diisi,95,2,Selesai,Remedial
+PRA107,2418047,Niken Larasati,Game Developer,Game Object,14-05-2026,85.0,Izin,95,2,Belum Selesai,Lulus
+PRA108,2418048,Bima Aditya,Mobile Programming,Recyclerview,17-05-2026,94.0,Alpha,78,1,Belum Selesai,Lulus
+PRA109,2418049,Nadya Anjani,Algoritma dan Pemrograman,Fungsi,20-05-2026,78.0,Hadir,100,3,Selesai,Lulus
+PRA110,2418050,Yusuf Maulana,Sistem Multimedia,Pengolahan Video,23-05-2026,60.0,Izin,90,1,Belum Selesai,Remedial
+PRA111,2418051,Adit Prkoso,Object Oriented Programming,Inheritance,26-05-2026,90.0,Hadir,95,1,Selesai,Lulus
+PRA113,2418053,Raka Wijaya,Pemrograman Web,Rest Api,01-06-2026,64.0,Izin,75,3,Belum Selesai,Remedial
+PRA114,2418054,Mila Anggraini,Jaringan Komputer,Packet Analysis,04-06-2026,75.0,Alpha,60,3,Belum Selesai,Lulus
+PRA115,2418055,Fauzan Akbar,Kecerdasan Buatan,Decision Tree,07-06-2026,77.5,Alpha,60,1,Belum Selesai,Lulus
+PRA116,2418056,Livia Maharani,Animasi,Animation Timeline,10-06-2026,94.0,Alpha,120,2,Belum Selesai,Remedial
+PRA117,2418057,Dio Kurniawan,Pengolahan Citra Digital,Filtering,13-06-2026,89.0,Hadir,75,2,Selesai,Lulus
+PRA119,2418059,Rafiq Hidayat,Game Developer,Game Object,19-06-2026,69.5,Izin,120,1,Belum Selesai,Remedial
+PRA120,2418060,Nanda Saputra,Mobile Programming,Api Integration,22-06-2026,80.0,Hadir,78,2,Selesai,Lulus
